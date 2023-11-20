@@ -6,6 +6,7 @@ This project focuses on building a Quiz bot based on the network security course
 ## ENVIRONMENT
 The project is executed in the Google Colab text editor. Which has its terminal and run time environment.
 ## SYSTEM ARCHITECTURE
+ ![ns_architecture](https://github.com/preethi02785/Network_Security_quiz_bot/assets/70713106/5f1577cf-7323-4708-bbd2-d596c40a7d4e)
 
 
 ## PREREQUISITES
