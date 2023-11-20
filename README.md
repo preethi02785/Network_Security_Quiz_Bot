@@ -7,11 +7,12 @@ This project focuses on building a Quiz bot based on the network security course
 The project is executed in Google Colab text editor. Which has its own terminal and run time environment.
 ## SYSTEM ARCHITECTURE
 
+
 ## PREREQUISITES
 * The recent Python version used is Python 3.12.0
 * An API key for the GPT API from Openai.com
   
-## REQUIREMENTS
+## REQUIREMENTS And Adopted Libraries
 * Python programming language
 Python is an interpreted, high-level, general-purpose programming language. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for all kinds of projects.
 * Google Colab text editor
