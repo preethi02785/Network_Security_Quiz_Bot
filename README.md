@@ -49,8 +49,12 @@ Run the code.
 Now, Select a topic of your choice.
 *Step-4:
 Select a type of question of your choice
-
-
+  1. Multiple choice questions
+  2. True/False
+  3. Open-ended questions
+ * Code will generate 10 random questions based on the type of question selected.
+ * The code will generate feedback and source from where the question is developed from.
+ * At the end of execution it will provide us the feedback on the number of questions that are correctly answered.
 
 ## Describe Training data and data formats
  It uses pre-defined sets of questions and correct answers for different question types like Multiple choice, True/False, and Open-ended questions.
