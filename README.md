@@ -40,7 +40,7 @@ An API key is a unique code that identifies your requests to the API. Your API k
 * User-friendly interfaces and accessibility features could be implemented to make the quiz bot more inclusive and widely accessible.
 * Potential enhancements could include expanding the question database.
 
-## Step-by-step Instructions for Executions
+## STEP-BY-STEP INSTRUCTIONS FOR EXECUTION
 * Step-1:
 Ensure that the Openai API key is Active.
 * Step-2:
@@ -57,7 +57,7 @@ Select a type of question of your choice
  * The code will generate feedback and source from where the question is developed from.
  * At the end of execution it will provide us the feedback on the number of questions that are correctly answered.
 
-## Describe Training data and data formats
+## DESCRIBE TRAINING DATA AND DATA FORMATS
  It uses pre-defined sets of questions and correct answers for different question types like Multiple choice, True/False, and Open-ended questions.
 ## REFERENCES
 1. https://dev.to/debakarroy/how-to-build-a-personalized-unlimited-quiz-app-in-minutes-chatgpt-api-edition-do1
