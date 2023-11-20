@@ -43,6 +43,12 @@ An API key is a unique code that identifies your requests to the API. Your API k
 * Step-1:
 Ensure that the Openai API key is Active.
 * Step-2:
+Upload the Dataset in Google Colab.
+*Step-3:
+Run the code.
+Now, Select a topic of your choice.
+*Step-4:
+Select a type of question of your choice
 
 
 
