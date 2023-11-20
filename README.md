@@ -20,4 +20,5 @@ OpenAI: You can install it using pip install OpenAI
 difflib: It's part of the Python standard library, so no separate installation is required.
 PyPDF2: Install it with pip install PyPDF2.
 
+## Step by step instructions for executions
 
