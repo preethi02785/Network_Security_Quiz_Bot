@@ -40,6 +40,9 @@ An API key is a unique code that identifies your requests to the API. Your API k
 * Potential enhancements could include expanding the question database.
 
 ## Step-by-step Instructions for Executions
+Step-1:
+Ensure that the Openai API key is Active.
+Step-2:
 
 
 ## Describe Training data and data formats
