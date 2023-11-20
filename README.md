@@ -61,6 +61,10 @@ Select a type of question of your choice
 ## REFERENCES
 1. https://dev.to/debakarroy/how-to-build-a-personalized-unlimited-quiz-app-in-minutes-chatgpt-api-edition-do1
 2. https://blog.devgenius.io/how-to-build-a-multiple-choice-quiz-with-chat-gpt-fcfadbeb2cbe
+3. GitHub:https://github.com/langchain-ai/langchain - Building applications with LLMs through composability
+4. https://github.com/Chainlit/chainlit
+   
+
 
  
 
