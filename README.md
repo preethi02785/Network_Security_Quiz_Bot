@@ -19,8 +19,8 @@ An API key is a unique code that identifies your requests to the API. Your API k
   
 OpenAI: You can install it using pip install OpenAI
 
-
 difflib: It's part of the Python standard library, so no separate installation is required.
+
 PyPDF2: Install it with pip install PyPDF2. 
 
 ## FEATURES
