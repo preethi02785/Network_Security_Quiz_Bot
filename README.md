@@ -33,10 +33,14 @@ An API key is a unique code that identifies your requests to the API. Your API k
 ## ISSUES FACED DURING EXECUTION AND THEIR SOLUTION
 * API Key: Make sure your OpenAI API key is valid and has the required permissions.
 * Missing Packages: If you encounter any "module not found" errors, install the required packages using pip install <package_name>.
-* Solutions for Open-ended question answers: Ensure that the answers provided are single sentenced.
+* Solutions for Open-ended question answers: Ensure that the answers provided are single sentences.
+
+## SUGGESTIONS AND FEEDBACK
+* User-friendly interfaces and accessibility features could be implemented to make the quiz bot more inclusive and widely accessible.
+* Potential enhancements could include expanding the question database.
 
 ## Step-by-step Instructions for Executions
-### 
+
 
 ## Describe Training data and data formats
  It uses pre-defined sets of questions and correct answers for different question types like Multiple choice, True/False, and Open-ended questions.
