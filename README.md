@@ -40,14 +40,17 @@ An API key is a unique code that identifies your requests to the API. Your API k
 * Potential enhancements could include expanding the question database.
 
 ## Step-by-step Instructions for Executions
-Step-1:
+* Step-1:
 Ensure that the Openai API key is Active.
-Step-2:
+* Step-2:
+
 
 
 ## Describe Training data and data formats
  It uses pre-defined sets of questions and correct answers for different question types like Multiple choice, True/False, and Open-ended questions.
 ## REFERENCES
+1. https://dev.to/debakarroy/how-to-build-a-personalized-unlimited-quiz-app-in-minutes-chatgpt-api-edition-do1
+2. https://blog.devgenius.io/how-to-build-a-multiple-choice-quiz-with-chat-gpt-fcfadbeb2cbe
 
  
 
