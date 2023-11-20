@@ -13,7 +13,7 @@ The project is executed in the Google Colab text editor. Which has its terminal 
 * The recent Python version used is Python 3.12.0
 * An API key for the GPT API from Openai.com
   
-## REQUIREMENTS And Adopted Libraries
+## REQUIREMENTS And ADOPTED LIBRARIES
 * Python programming language
 Python is an interpreted, high-level, general-purpose programming language. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for all kinds of projects.
 * Google Colab text editor
