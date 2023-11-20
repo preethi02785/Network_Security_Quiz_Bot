@@ -11,7 +11,7 @@ This project focuses on building a Quiz bot based on the network security course
   
 ## REQUIREMENTS
 * Python programming language
-Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for all kinds of projects.
+Python is an interpreted, high-level, general-purpose programming language. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for all kinds of projects.
 * Google Colab text editor
 * Open API key
 An API key is a unique code that identifies your requests to the API. Your API key is intended to be used by you. The sharing of API keys is against the Terms of Use. As you begin experimenting, you may want to expand API access to your team.
@@ -27,7 +27,11 @@ An API key is a unique code that identifies your requests to the API. Your API k
 * Randomly selects questions for a mixed quiz.
 * Checks user answers and provides feedback.
 
-## Step by step instructions for executions
+## Step-by-step Instructions for Executions
 
-## 
+## Describe Training data and data formats
+ It uses pre-defined sets of questions and correct answers for different question types like Multiple choice, True/False, and Open-ended questions.
+## REFERENCES
+
+ 
 
