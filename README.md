@@ -1,10 +1,10 @@
-# Network_Security_quiz_bot
+# Network_Security_Quiz_Bot
 ## PROJECT DESCRIPTION
 
 This project focuses on building a Quiz bot based on the network security coursework. The bot is designed in a local environment to ensure data privacy is not compromised which helps us learn network work security skills. The quiz bot provides users with randomly generated questions and questions on specific topics we train the bot from a network security database which includes lecture slides, quizzes, homework, textbooks, and information over the internet. Further, it offers a diverse range of question formats which includes True or False, Multiple Choice, and open-ended questions. Based on the choice of user the quiz bot questions are displayed for the user to answer and it also has a feature to provide feedback to the user for the questions answered and also the source of the question which creates an informative learning experience.
 
 ## ENVIRONMENT
-The project is executed in Google Colab text editor. Which has its own terminal and run time environment.
+The project is executed in the Google Colab text editor. Which has its terminal and run time environment.
 ## SYSTEM ARCHITECTURE
 
 
@@ -30,7 +30,11 @@ An API key is a unique code that identifies your requests to the API. Your API k
 * Randomly selects questions for a mixed quiz.
 * Checks user answers and provides feedback.
 
-## 
+## ISSUES FACED DURING EXECUTION AND THEIR SOLUTION
+* API Key: Make sure your OpenAI API key is valid and has the required permissions.
+* Missing Packages: If you encounter any "module not found" errors, install the required packages using pip install <package_name>.
+* Solutions for Open-ended question answers: Ensure that the answers provided are single sentenced.
+
 ## Step-by-step Instructions for Executions
 ### 
 
