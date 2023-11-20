@@ -28,6 +28,7 @@ An API key is a unique code that identifies your requests to the API. Your API k
 * Checks user answers and provides feedback.
 
 ## Step-by-step Instructions for Executions
+### steps to setup openai API
 
 ## Describe Training data and data formats
  It uses pre-defined sets of questions and correct answers for different question types like Multiple choice, True/False, and Open-ended questions.
