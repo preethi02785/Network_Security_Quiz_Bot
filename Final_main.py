@@ -1,9 +1,9 @@
 # your_main_script.py
 
-#import openai
+import openai
 from difflib import SequenceMatcher
 import random
-#import PyPDF2
+import PyPDF2
 from quiz_data_topic_1 import mcq_questions as topic_1_mcq_questions, mcq_choices as topic_1_mcq_choices, \
     mcq_correct_answers as topic_1_mcq_correct_answers, mcq_sources as topic_1_mcq_sources
 from quiz_data_topic_1 import true_false_questions as topic_1_true_false_questions, \
