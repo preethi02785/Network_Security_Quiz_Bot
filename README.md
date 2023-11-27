@@ -16,7 +16,7 @@ The project is executed in the Pycharm text editor. Which has its terminal and r
 ## REQUIREMENTS And ADOPTED LIBRARIES
 * Python programming language
 Python is an interpreted, high-level, general-purpose programming language. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for all kinds of projects.
-* Google Colab text editor
+* Pycharm text editor
 * Open API key
 An API key is a unique code that identifies your requests to the API. Your API key is intended to be used by you. The sharing of API keys is against the Terms of Use. As you begin experimenting, you may want to expand API access to your team.
 * Installing required packages(open, difflib, PyPDF2):
@@ -46,7 +46,7 @@ Ensure that the Openai API key is Active.
 * Step-2:
 Upload the Dataset in Google Colab.
 * Step-3:
-Run the code.
+Run the Final_with_marks.py file.
 Now, Select a topic of your choice.
 * Step-4:
 Select a type of question of your choice
