@@ -4,7 +4,7 @@
 This project focuses on building a Quiz bot based on the network security coursework. The bot is designed in a local environment to ensure data privacy is not compromised which helps us learn network work security skills. The quiz bot provides users with randomly generated questions and questions on specific topics we train the bot from a network security database which includes lecture slides, quizzes, homework, textbooks, and information over the internet. Further, it offers a diverse range of question formats which includes True or False, Multiple Choice, and open-ended questions. Based on the choice of user the quiz bot questions are displayed for the user to answer and it also has a feature to provide feedback to the user for the questions answered and also the source of the question which creates an informative learning experience.
 
 ## ENVIRONMENT
-The project is executed in the Google Colab text editor. Which has its terminal and run time environment.
+The project is executed in the Pycharm text editor. Which has its terminal and run time environment.
 ## SYSTEM ARCHITECTURE
  ![ns_architecture](https://github.com/preethi02785/Network_Security_quiz_bot/assets/70713106/5f1577cf-7323-4708-bbd2-d596c40a7d4e)
 
@@ -16,7 +16,7 @@ The project is executed in the Google Colab text editor. Which has its terminal 
 ## REQUIREMENTS And ADOPTED LIBRARIES
 * Python programming language
 Python is an interpreted, high-level, general-purpose programming language. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for all kinds of projects.
-* Google Colab text editor
+* Pycharm text editor
 * Open API key
 An API key is a unique code that identifies your requests to the API. Your API key is intended to be used by you. The sharing of API keys is against the Terms of Use. As you begin experimenting, you may want to expand API access to your team.
 * Installing required packages(open, difflib, PyPDF2):
@@ -46,7 +46,7 @@ Ensure that the Openai API key is Active.
 * Step-2:
 Upload the Dataset in Google Colab.
 * Step-3:
-Run the code.
+Run the Final_with_marks.py file.
 Now, Select a topic of your choice.
 * Step-4:
 Select a type of question of your choice
